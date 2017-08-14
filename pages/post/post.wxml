@@ -1,0 +1,6 @@
+<!--post.wxml-->
+<view class="container">
+    <swiper indicator-dots="true">
+        
+    </swiper>
+</view>
