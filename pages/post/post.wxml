@@ -1,6 +1,14 @@
 <!--post.wxml-->
-<view class="container">
-    <swiper indicator-dots="true">
-        
+<view>
+    <swiper indicator-dots="true" autoplay="true">
+          <swiper-item>
+            <image src="/images/banner1.jpg" class="slide-image"></image>
+          </swiper-item>
+          <swiper-item>
+            <image src="/images/banner2.jpg" class="slide-image"></image>
+          </swiper-item>
+          <swiper-item>
+            <image src="/images/banner3.jpg" class="slide-image"></image>
+          </swiper-item>
     </swiper>
 </view>
