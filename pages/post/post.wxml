@@ -1,6 +1,6 @@
 <!--post.wxml-->
 <view>
-    <swiper indicator-dots="true" autoplay="true">
+    <swiper indicator-dots="true" autoplay="true" circular="true">
           <swiper-item>
             <image src="/images/banner1.jpg" class="slide-image"></image>
           </swiper-item>
@@ -11,4 +11,16 @@
             <image src="/images/banner3.jpg" class="slide-image"></image>
           </swiper-item>
     </swiper>
+    <view>
+      <view>
+        <image src="/images/avatar/001.jpg"></image>
+        <text>2017-08-15</text>
+      </view>
+      <text>春风十里不如你</text>
+      <image src="/images/banner1.jpg"></image>
+      <text>这是一段简介其实我也知道要写什么好，不过总觉得需要写点东西才过得去。现在这种不是调用 Json 的方法还是很蠢的，还是需要继续学习才能够成为海贼王的男人。</text>
+      <view class="classname">
+
+      </view>
+    </view>
 </view>
