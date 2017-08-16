@@ -32,7 +32,7 @@ swiper image{
 }
 
 .author{
-  margin:10rpx 0 20rpx 10rpx;
+  margin:10rpx 0 5rpx 10rpx;
 }
 .author image{
   width: 60rpx;
@@ -42,7 +42,7 @@ swiper image{
 .author text{
   margin-left: 20rpx;
   vertical-align: middle;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   font-size: 26rpx;
   color: #777;
 }
